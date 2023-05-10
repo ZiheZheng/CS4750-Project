@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sobgog.car_rental.app-mergeReleaseResources-15:/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/jacobzheng/.gradle/caches/transforms-3/76b0173ef195e19f52ee3c4646cb29fd/transformed/browser-1.4.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,98",
+                        "endOffsets": "148,245,354,453"
+                    }
+                },
+                {
+                    "source": "/Users/jacobzheng/.gradle/caches/transforms-3/b67eb4e1c3a9f50d2ba771ed924a5ba6/transformed/core-1.6.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "458",
+                        "endColumns": "100",
+                        "endOffsets": "554"
+                    }
+                }
+            ]
+        }
+    ]
+}

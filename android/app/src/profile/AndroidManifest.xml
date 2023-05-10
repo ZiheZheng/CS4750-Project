@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="${AIzaSyCjLhXQK2mnGhi9l6fWAl64ca8U8wGlcJI}" />
+
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+</manifest>
